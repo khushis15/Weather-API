@@ -1,0 +1,26 @@
+.main{
+    border: 10px solid orange;
+    padding: 50px;
+    background-color: rgb(190, 219, 241);
+}
+p{
+    color: orange;
+    font-family: cursive;
+    font-size: 50px;
+    display: inline-block;
+}
+input{
+        font-size:20px;
+        height:50px;
+        width:250px;
+}
+button{
+    font-size: 25px;
+    height: 55px;
+    padding: 5px;
+    margin-left: 50px;
+    background-color: orange;
+}
+img{
+    width: 70px;
+}
